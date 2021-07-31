@@ -1,0 +1,35 @@
+{
+  "name": "@aleksandzavialov/rnonix",
+  "version": "0.0.1",
+  "description": "Onix react native template",
+  "files": [
+    "template"
+  ],
+  "keywords": [
+    "onix",
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate",
+    "starter",
+    "navigation",
+    "async",
+    "storage",
+    "components",
+    "bundle",
+    "husky",
+    "git",
+    "startup"
+  ],
+  "author": "Alexandr Zavialov <avelhar74@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandzavialov/RNOnix.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aleksandzavialov/RNOnix/issues"
+  },
+  "homepage": "https://github.com/aleksandzavialov/RNOnix"
+}
