@@ -9,7 +9,7 @@ export default function Main() {
 
   return (
     <Suspense fallback={<View />}>
-      <AppNavigator />
+        <AppNavigator />
     </Suspense>
-  );
+);
 }
