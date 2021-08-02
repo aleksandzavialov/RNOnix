@@ -38,3 +38,10 @@ pod install
 cd ../
 npx react-native run-ios
 ```
+
+## Issues
+
+**./gradlew EACCES error when running**
+```sh
+chmod 755 android/gradlew (sudo chmod 755 android/gradlew)
+```
